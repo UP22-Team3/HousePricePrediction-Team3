@@ -264,3 +264,11 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,visualstudiocode,python,jupyternotebooks
 
+# Add data file(csv)
+bus_feature.csv
+subway_feature.csv
+test.csv
+train.csv
+
+# Baseline code
+baseline_code.ipynb
